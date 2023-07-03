@@ -1,2 +1,1 @@
-* linguist-vendored
-*.dockerfile linguist-vendored=false
+*.python linguist-detectable=false
